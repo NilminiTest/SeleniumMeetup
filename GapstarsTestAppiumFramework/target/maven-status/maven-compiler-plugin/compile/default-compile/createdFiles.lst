@@ -1,0 +1,5 @@
+org\companyname\utils\AppiumUtils.class
+org\companyname\pageObjects\ProductCatalogue.class
+org\companyname\utils\AppiumUtils$1.class
+org\companyname\utils\AndroidActions.class
+org\companyname\pageObjects\FormPage.class

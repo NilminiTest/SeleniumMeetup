@@ -1,0 +1,5 @@
+org\companyname\eCommerceHybrid.class
+org\companyname\TestUtils\AndroidBaseTest.class
+org\companyname\runner\TestRunner.class
+org\companyname\stepDef\UserDetailsSteps.class
+org\companyname\eCommerceAsserts.class
